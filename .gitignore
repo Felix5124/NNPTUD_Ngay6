@@ -134,6 +134,9 @@ dist
 !.yarn/sdks
 !.yarn/versions
 
+# JWT RS256 keys
+keys/private.key
+
 # Vite logs files
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
